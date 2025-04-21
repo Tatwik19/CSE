@@ -21,20 +21,6 @@ This repository contains projects that apply blockchain concepts in real-world s
 - **ERC-721 Smart Contract** – Created and deployed a non-fungible token (NFT) contract on an Ethereum-based network.
 - **Hyperledger Fabric Network** – Built a private permissioned blockchain using Hyperledger, demonstrating business logic and data flow via chaincodes.
 
-### Blockchain Research Area Exploration (Optional Project)
-
-- Explored how blockchain can transform cloud manufacturing.
-- Proposed a **Decentralized Cloud Manufacturing-as-a-Service (CMaaS)** platform.
-- Integrated concepts like **Digital Twin technology**, **AI/ML for quality control**, and **Blockchain for data provenance**.
-
-### Quizzes & Coursework
-
-- Practice quizzes and notes covering:
-  - Blockchain abstractions
-  - Consensus mechanisms
-  - Transactions and mining
-  - Cryptographic foundations
-
 ---
 
 ## Why It Matters
