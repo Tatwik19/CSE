@@ -47,12 +47,6 @@ Blockchain is not just about cryptocurrency—it’s a tool to rethink how we ha
 
 ---
 
-## Let’s Connect!
-
-If you're interested in my work, feel free to explore the repo or connect with me on [LinkedIn](https://www.linkedin.com/in/your-link-here).
-
----
-
 ## Tech Stack
 
 - Solidity
