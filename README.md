@@ -1,6 +1,6 @@
 # Blockchain Engineering Lab
 
-Welcome to my portfolio of work for **CSE 598: Engineering Blockchain Applications** at Arizona State University. This repository showcases hands-on projects and research conducted during my graduate coursework and independent exploration in blockchain technology.
+This repository showcases hands-on projects and research conducted during my graduate coursework and independent exploration in blockchain technology.
 
 ---
 
