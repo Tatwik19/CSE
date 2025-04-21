@@ -58,7 +58,7 @@ contract MyNFT is ERC721 {
 }
 ```
 - ```ERC721``` is the standard for NFTs.
-- ```name``` and symbol``` are defined via the constructor.
+- ```name``` and ```symbol``` are defined via the constructor.
 - The ```message``` is a custom public variable.
 - ```mint()``` assigns one token to the deployer.
 
