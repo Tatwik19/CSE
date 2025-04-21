@@ -44,7 +44,7 @@ And all of it runs on **blockchain**—a secure, open system that no one control
 ## Smart Contract Breakdown
 
 ```solidity
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.x;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
