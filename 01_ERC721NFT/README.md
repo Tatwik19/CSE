@@ -18,8 +18,6 @@ This project aims to give learners hands-on experience with:
 - Built with **Solidity**.
 - Deployed to the **Polygon Amoy Testnet**.
 - Interacts via **Remix IDE** + **MetaMask**.
-- Fully tested and meets grading standards for CSE 598.
-
 
 ## For Non-Technical Viewers
 
